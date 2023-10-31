@@ -16,3 +16,4 @@ Classifier : RandomForestClassifier , svm , Gaussian Naive Bayes
 
 
 Dataset Link : https://drive.google.com/drive/folders/1KyOb_G9sRgzGqBKff2EqE4ttevRP-XuG
+Check more details about dataset in the "Dataset text" file
