@@ -8,4 +8,4 @@ Sol-->Left
 Kirp-->Blink 
 
 
-Dataset Link : https://drive.google.com/drive/folders/1KyOb_G9sRgzGqBKff2EqE4ttevRP-XuG?usp=sharing
+Dataset Link : https://drive.google.com/drive/folders/1KyOb_G9sRgzGqBKff2EqE4ttevRP-XuG
