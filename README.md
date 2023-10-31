@@ -9,5 +9,7 @@ For Feature Extraction :
 Wavelet transformation and Autoregressive modelling were applied.
 
 Programming Language : python 3.9
+
 Libraries used : numpy , scipy, matplotlib, os , sklearn
+
 Classifier : RandomForestClassifier , svm , Gaussian Naive Bayes
